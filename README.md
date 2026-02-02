@@ -4,6 +4,8 @@
 
 # IOC Analyzer
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 **Version:** 2.0.0
 
 **Developer:** Daniel Hållbro (Student)
