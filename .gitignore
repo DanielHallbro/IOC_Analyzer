@@ -1,0 +1,29 @@
+# Local Intelligence Cache
+ioc_cache.json
+
+# Forensic Outputs (Don't upload your private scan results)
+reports/
+*.log
+*.txt
+*.csv
+*.html
+
+# Automation Workspace (Keep the folders, ignore the contents)
+watch_folder/*
+processed/*
+!watch_folder/.gitkeep
+!processed/.gitkeep
+
+# API Keys
+.env
+
+# Python System Files
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# OS Files
+.DS_Store
+Thumbs.db

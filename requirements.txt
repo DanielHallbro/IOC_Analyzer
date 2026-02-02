@@ -1,0 +1,14 @@
+# Requirements for IOC Analyzer project
+# Used to install necessary Python libraries:
+# pip install -r requirements.txt
+
+requests>=2.32.4
+python-dotenv>=1.0.1
+watchdog==6.0.0
+
+# In case of trouble installing via pip, you can install the packages using apt:
+        #requests (python)
+#sudo apt install python3-requests
+
+        #python-dotenv
+#sudo apt install python3-dotenv
