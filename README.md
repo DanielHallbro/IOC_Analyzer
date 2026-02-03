@@ -10,9 +10,11 @@
 
 **Developer:** Daniel Hållbro (Student)
 
-IOC Analyzer 2.0 is a powerful Threat Intelligence framework designed to automate the triage of Indicators of Compromise (IOCs). By leveraging high-performance API integrations with VirusTotal, AbuseIPDB, and IPinfo, the tool provides a rapid, multi-source security overview of IPs, URLs, and hashes.
+IOC Analyzer 2.0.0 is a powerful Threat Intelligence framework designed to automate the triage of Indicators of Compromise (IOCs). By leveraging high-performance API integrations with VirusTotal, AbuseIPDB, and IPinfo, the tool provides a rapid, multi-source security overview of IPs, URLs, and hashes.
 
 Now featuring an Automated Watch Folder for instant, hands-free analysis and SHA-256 hashing of binary files.
+
+v2.0.0 is a complete architectural rewrite of previous versions. For the original manual version, see [IOC Analyzer v1.0.0](https://github.com/DanielHallbro/Applied_Script_CS25_FSH/tree/main/IOC_Analyzer).
 
 ---
 
@@ -71,7 +73,7 @@ Now featuring an Automated Watch Folder for instant, hands-free analysis and SHA
 
 * Python 3.x
 * The libraries specified in `requirements.txt`: `requests`, `python-dotenv`, `watchdog`.
-* Writing privelages in project directories.
+* Writing privilages in project directories.
 
 ### Installation (Recommended Method)
 
